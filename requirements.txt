@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+neo4j>=5.0.0
+pandas>=2.0.0
+pyvis>=0.3.2
+spacy>=3.7.0
+rapidfuzz>=3.6.0

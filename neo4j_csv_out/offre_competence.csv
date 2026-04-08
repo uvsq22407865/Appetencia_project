@@ -1,0 +1,409 @@
+offreId,competenceId,confiance,sourceMethod,candidateText,candidateKind,evidence,candidateScore,matchKey,matchScore
+OFF_001,DEVELOPPER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,developper,VERB,"Tu disposes d’un véritable attrait pour les environnements virtualisés et souhaites développer tes compétences dans un contexte technique exigeant, au cœur des systèmes critiques et innovants ?",2.75,developper,100.0
+OFF_001,IMPLANTER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,implanter,VERB,"Ton profil
+Issu.e d’un cycle d’ingénieur généraliste/Telecom, tu es interessé.e par nos activités innovantes implantées partout dans le monde ?",1.2,implanter,100.0
+OFF_001,APPORTER,0.857,hybrid_soft_sections+verbs+NP+spacy+fuzzy,porter,VERB,"Notre savoir-faire technologique
+Notre attention portée à l’équilibre des collaborateurs",1.2,apporter,85.71428571428572
+OFF_001,ASSURER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,assurer,VERB,Réseau et en assurer la continuité.,1.0,assurer,100.0
+OFF_001,CONFIER,0.824,hybrid_soft_sections+verbs+NP+spacy+fuzzy,configurer,VERB,et configurer les serveurs de virtualisation nécessaires aux différents environnements de tests,1.0,confier,82.35294117647058
+OFF_001,ANTICIPER,0.842,hybrid_soft_sections+verbs+NP+spacy+fuzzy,participer,VERB,".
+Déployer et paramétrer les routeurs virtuels au sein de cette architecture.
+Automatiser le lancement des machines virtuelles (VM) ainsi que leurs interconnexions, conformément à la topologie définie.
+Participer au lanc",1.0,anticiper,84.21052631578947
+OFF_001,PROMOUVOIR,0.824,hybrid_soft_sections+verbs+NP+spacy+fuzzy,pouvoir,VERB,"Voir plus d’options
+Personnes que vous pouvez contacter
+Meriem et d’autres membres de votre réseau
+Tout afficher
+À propos de l’offre d’emploi
+Lieu : Cristal, France
+Construisons ensemble un avenir de confiance",1.0,promouvoir,82.35294117647058
+OFF_001,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,"Voir plus d’options
+Personnes que vous pouvez contacter
+Meriem et d’autres membres de votre réseau
+Tout afficher
+À propos de l’offre d’emploi
+Lieu : Cristal, France
+Construisons ensemble un avenir de confiance",1.0,offrir,100.0
+OFF_001,CONTRIBUER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,contribuer,VERB,"Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l’environnement et plus inclusif.",1.0,contribuer,100.0
+OFF_001,REDIGER,0.95,hybrid_soft_sections+verbs+NP+spacy+fuzzy,rediger,NP,Rédiger,0.8,rediger,100.0
+OFF_001,PROPOSER,0.814,hybrid_soft_sections+verbs+NP+spacy+fuzzy,propos,NP,propos,0.8,proposer,85.71428571428572
+OFF_001,RECHERCHER,0.9,hybrid_soft_sections+verbs+NP+spacy+fuzzy,recherche,NP,Recherche,0.8,rechercher,94.73684210526316
+OFF_001,COLLABORER,0.792,hybrid_soft_sections+verbs+NP+spacy+fuzzy,collaborateurs,NP,collaborateurs,0.8,collaborer,83.33333333333334
+OFF_001,APPRENDRE,0.582,hybrid_soft_sections+verbs+NP+spacy+fuzzy,prendre,VERB,Prendre en main les travaux déjà initiés par l’équipe,0.35,apprendre,87.5
+OFF_001,DEFINIR,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,definir,VERB,".
+Définir",0.35,definir,100.0
+OFF_002,ANIMER,0.909,hybrid_soft_sections+verbs+NP+spacy+fuzzy,aimer,VERB,"Vous aimez le travail en équipe
+Vous savez faire preuve de flexibilité, mais également prendre des décisions, arbitrer et respecter des engagements
+Vous aimez intervenir dans un environnement dynamique avec la possibilit",2.64,animer,90.9090909090909
+OFF_002,PROSPECTER,0.842,hybrid_soft_sections+verbs+NP+spacy+fuzzy,respecter,VERB,"Vous aimez le travail en équipe
+Vous savez faire preuve de flexibilité, mais également prendre des décisions, arbitrer et respecter des engagements
+Vous aimez intervenir dans un environnement dynamique avec la possibilit",1.32,prospecter,84.21052631578947
+OFF_002,CONTRIBUER,0.842,hybrid_soft_sections+verbs+NP+spacy+fuzzy,continuer,VERB,"Amélioration continue, capitalisation et innovation
+Pilotage des fournisseurs externes
+Application des process DSF et de la bonne utilisation des outils associés
+A noter également en fonction de vos souhaits et des oppor",1.0,contribuer,84.21052631578947
+OFF_002,PROMOUVOIR,0.824,hybrid_soft_sections+verbs+NP+spacy+fuzzy,pouvoir,VERB,"Voir plus d’options
+Personnes que vous pouvez contacter
+Logo de Université Paris-Saclay
+Logo de Université Paris-Saclay
+Des anciens élèves de l’école",1.0,promouvoir,82.35294117647058
+OFF_002,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,"Services France / Région Grand Ouest
+Message
+À propos de l’offre d’",1.0,offrir,100.0
+OFF_002,BUDGETER,0.814,hybrid_soft_sections+verbs+NP+spacy+fuzzy,budget,NP,budget,0.8,budgeter,85.71428571428572
+OFF_002,CONSEILLER,0.782,hybrid_soft_sections+verbs+NP+spacy+fuzzy,conseil,NP,conseil,0.8,conseiller,82.35294117647058
+OFF_002,FAIRE,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,faire,VERB,"Vous aimez le travail en équipe
+Vous savez faire preuve de flexibilité, mais également prendre des décisions, arbitrer et respecter des engagements
+Vous aimez intervenir dans un environnement dynamique avec la possibilit",0.462,faire,100.0
+OFF_002,APPRENDRE,0.582,hybrid_soft_sections+verbs+NP+spacy+fuzzy,prendre,VERB,"Vous aimez le travail en équipe
+Vous savez faire preuve de flexibilité, mais également prendre des décisions, arbitrer et respecter des engagements
+Vous aimez intervenir dans un environnement dynamique avec la possibilit",0.462,apprendre,87.5
+OFF_003,ASSURER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,assurer,VERB,"enseignant(e) vacataire / freelance 
+pour assurer des enseignements 100% en français auprès d’un public d’étudiants",1.8,assurer,100.0
+OFF_003,ANTICIPER,0.842,hybrid_soft_sections+verbs+NP+spacy+fuzzy,participer,VERB,"Le cas échéant, participer à des événements académiques : conférences, jurys, soutenances, ateliers.
+Profil recherché
+Formation supérieure :",1.2,anticiper,84.21052631578947
+OFF_003,RECHERCHER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,rechercher,VERB,"Le cas échéant, participer à des événements académiques : conférences, jurys, soutenances, ateliers.
+Profil recherché
+Formation supérieure :",1.2,rechercher,100.0
+OFF_003,CONFIER,0.875,hybrid_soft_sections+verbs+NP+spacy+fuzzy,confirmer,VERB,Expérience confirmée dans l’enseignement,1.2,confier,87.5
+OFF_003,STRUCTURER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,structurer,VERB,", interventions thématiques)
+Histoire de l’art
+Structurer les contenus pédagogiques : plan de cours, syllabus, bibliographie, supports (PPT/lectures), études de cas.",1.0,structurer,100.0
+OFF_003,EVALUER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,evaluer,VERB,"Animer les séances : exposés, analyses d’œuvres, discussions, travaux de groupe, présentations d’étudiants.
+Évaluer les apprentissages :",1.0,evaluer,100.0
+OFF_003,TRANSMETTRE,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,transmettre,VERB,"Aptitude à transmettre des concepts de manière claire, interactive et rigoureuse.",1.0,transmettre,100.0
+OFF_003,ANALYSER,0.887,hybrid_soft_sections+verbs+NP+spacy+fuzzy,analyse,NP,analyse,0.8,analyser,93.33333333333333
+OFF_003,ANIMER,0.95,hybrid_soft_sections+verbs+NP+spacy+fuzzy,animer,NP,Animer,0.8,animer,100.0
+OFF_004,ACCOMPAGNER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,accompagner,VERB,"médicaux mensuels pour partager les connaissances et discuter des cas
+Médecin référent et équipe paramédicale dédiée pour vous accompagner au quotidien",2.0,accompagner,100.0
+OFF_004,CONCEVOIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,concevoir,VERB,Vous exercerez dans un environnement technologique et collaboratif conçu pour vous permettre de vous concentrer sur votre cœur de métier.,1.25,concevoir,100.0
+OFF_004,REALISER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,realiser,VERB,Réaliser des examens cliniques complets : cartographie corporelle et analyse dermoscopique,1.25,realiser,100.0
+OFF_004,DISCUTER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,discuter,VERB,"médicaux mensuels pour partager les connaissances et discuter des cas
+Médecin référent et équipe paramédicale dédiée pour vous accompagner au quotidien",1.2,discuter,100.0
+OFF_004,RECHERCHER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,rechercher,VERB,"Aucune charge annexe ni contrainte de volume de consultations
+Profil recherché",1.2,rechercher,100.0
+OFF_004,CONTRIBUER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,contribuer,VERB,"En rejoignant DermaScan, vous intégrerez une équipe pluridisciplinaire où chaque membre contribue à une prise en charge fluide et exigeante sur le plan médical.",1.1,contribuer,100.0
+OFF_004,VALORISER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,valoriser,VERB,"Un modèle de travail en réseau qui valorise la coordination et la continuité de la prise en charge
+Conditions et avantages
+
+Rémunération à partir de 100 € de l’heure, avec transparence sur les revenus
+Planning libre, 1 à",1.1,valoriser,100.0
+OFF_004,REPARTIR,0.857,hybrid_soft_sections+verbs+NP+spacy+fuzzy,partir,VERB,"Un modèle de travail en réseau qui valorise la coordination et la continuité de la prise en charge
+Conditions et avantages
+
+Rémunération à partir de 100 € de l’heure, avec transparence sur les revenus
+Planning libre, 1 à",1.1,repartir,85.71428571428572
+OFF_004,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,"Ce que nous vous offrons
+
+Un environnement technologique au service de la médecine",1.0,offrir,100.0
+OFF_004,TESTER,0.833,hybrid_soft_sections+verbs+NP+spacy+fuzzy,rester,VERB,"vous restez concentré sur le soin, pas sur la paperasse",1.0,tester,83.33333333333334
+OFF_004,STRUCTURER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,structurer,VERB,Une pratique collective et structurée,1.0,structurer,100.0
+OFF_004,ASSURER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,assurer,VERB,Formations continues assurées par des onco-dermatologues experts,1.0,assurer,100.0
+OFF_004,EVALUER,0.857,hybrid_soft_sections+verbs+NP+spacy+fuzzy,evoluer,VERB,"Vous évoluerez dans un cadre moderne, technologique et bienveillant, où chaque outil, chaque collaboration et chaque formation sont pensés pour une seule finalité : améliorer la détection précoce et la santé de vos patie",1.0,evaluer,85.71428571428572
+OFF_004,AMELIORER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,ameliorer,VERB,"Vous évoluerez dans un cadre moderne, technologique et bienveillant, où chaque outil, chaque collaboration et chaque formation sont pensés pour une seule finalité : améliorer la détection précoce et la santé de vos patie",1.0,ameliorer,100.0
+OFF_004,ANALYSER,0.887,hybrid_soft_sections+verbs+NP+spacy+fuzzy,analyse,NP,analyse,0.8,analyser,93.33333333333333
+OFF_004,PRESENTER,0.8,hybrid_soft_sections+verbs+NP+spacy+fuzzy,presentiel,NP,présentiel,0.8,presenter,84.21052631578947
+OFF_005,PREPARER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,preparer,VERB,"Ces différentes composantes font de l'EDHEC un centre de connaissances, d'expériences et de diversité, destiné à préparer les nouvelles générations de managers à exceller dans un monde en pleine mutation.",1.5,preparer,100.0
+OFF_005,ASSISTER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,assister,VERB,"Assistant RH 
+À propos de l’offre d’emploi
+Fondée en 1906, l'EDHEC est aujourd'hui l'une des 10 meilleures écoles de commerce en Europe.",1.25,assister,100.0
+OFF_005,DEVELOPPER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,developper,VERB,"Forte de ses valeurs fondamentales d'excellence, d'innovation et d'esprit d'entreprise, l'EDHEC a développé un modèle stratégique fondé sur une recherche réellement utile à la société, aux entreprises et aux étudiants.",1.25,developper,100.0
+OFF_005,FORMER,0.909,hybrid_soft_sections+verbs+NP+spacy+fuzzy,forme,VERB,"Basée à Lille, Nice, Paris, Londres et Singapour, et comptant plus de 90 nationalités sur ses campus, l'EDHEC est une école entièrement internationale directement connectée au monde de l'entreprise.
+Avec plus de 60 000 d",1.2,former,90.9090909090909
+OFF_005,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,"Assistant RH 
+À propos de l’offre d’emploi
+Fondée en 1906, l'EDHEC est aujourd'hui l'une des 10 meilleures écoles de commerce en Europe.",1.0,offrir,100.0
+OFF_005,PROPOSER,0.814,hybrid_soft_sections+verbs+NP+spacy+fuzzy,propos,NP,propos,0.8,proposer,85.71428571428572
+OFF_006,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,"Humaines
+À propos de l’offre d’",2.0,offrir,100.0
+OFF_006,STRUCTURER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,structurer,VERB,"Notre cabinet est structuré (pôle juridique, pôle social, pôle comptable, pôle Cac) et de nombreuses fonctions support viennent en appui des équipes (services généraux, service comptable interne, service informatique, se",1.0,structurer,100.0
+OFF_006,ANTICIPER,0.842,hybrid_soft_sections+verbs+NP+spacy+fuzzy,participer,VERB,"Vous travaillerez dans une ambiance de travail conviviale et participerez à des évènements teambuilding organisés tout au long de l'année (petits déjeuners, séminaires, soirées, afterworks, ect.",1.0,anticiper,84.21052631578947
+OFF_006,BUDGETER,0.814,hybrid_soft_sections+verbs+NP+spacy+fuzzy,budget,NP,budget,0.8,budgeter,85.71428571428572
+OFF_006,PROPOSER,0.814,hybrid_soft_sections+verbs+NP+spacy+fuzzy,propos,NP,propos,0.8,proposer,85.71428571428572
+OFF_007,PROGRESSER,0.833,hybrid_soft_sections+verbs+NP+spacy+fuzzy,progressivemer,VERB,"Il a vocation à reprendre progressivement la relation client BNC aujourd’hui assurée par le fondateur, expert-comptable, et à structurer une fonction relation client pérenne et duplicable.",2.32,progresser,83.33333333333334
+OFF_007,ASSURER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,assurer,VERB,"Il a vocation à reprendre progressivement la relation client BNC aujourd’hui assurée par le fondateur, expert-comptable, et à structurer une fonction relation client pérenne et duplicable.",2.0,assurer,100.0
+OFF_007,COMPOSER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,composer,VERB,"Vos missions
+
+Vous rejoindrez une équipe dynamique et prendrez progressivement en charge un portefeuille d’environ 700 dossiers BNC simples, majoritairement composés d’entreprises individuelles d’avocats collaborateurs, ",1.65,composer,100.0
+OFF_007,CONSEILLER,0.824,hybrid_soft_sections+verbs+NP+spacy+fuzzy,conseil,NP,conseil,1.6,conseiller,82.35294117647058
+OFF_007,COORDONNER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,coordonner,VERB,"Vous coordonnez les échanges avec l’équipe en charge de la production comptable, dans une logique de qualité, de fluidité et de satisfaction client.",1.375,coordonner,100.0
+OFF_007,CONFIER,0.875,hybrid_soft_sections+verbs+NP+spacy+fuzzy,confirmer,VERB,"Votre profil
+
+ Vous avez une expérience confirmée en environnement de services B2B exigeant, idéalement en cabinet d’expertise comptable, cabinet de conseil ou structure de services professionnels.",1.2,confier,87.5
+OFF_007,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,"Professions libérales (H/F)
+
+À propos de l’offre d’",1.0,offrir,100.0
+OFF_007,STRUCTURER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,structurer,VERB,"Il a vocation à reprendre progressivement la relation client BNC aujourd’hui assurée par le fondateur, expert-comptable, et à structurer une fonction relation client pérenne et duplicable.",1.0,structurer,100.0
+OFF_007,CONTRIBUER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,contribuer,VERB,"Vous contribuez à l’amélioration des process, à la mise en place d’indicateurs de qualité et à la structuration de la fonction relation client BNC.
+À moyen terme, vous participerez à la création et à l’encadrement d’une ",1.0,contribuer,100.0
+OFF_007,ANTICIPER,0.842,hybrid_soft_sections+verbs+NP+spacy+fuzzy,participer,VERB,"Vous contribuez à l’amélioration des process, à la mise en place d’indicateurs de qualité et à la structuration de la fonction relation client BNC.
+À moyen terme, vous participerez à la création et à l’encadrement d’une ",1.0,anticiper,84.21052631578947
+OFF_007,ANIMER,0.909,hybrid_soft_sections+verbs+NP+spacy+fuzzy,aimer,VERB,"Vous aimez le contact client, savez expliquer, rassurer et fidéliser une clientèle exigeante.",1.0,animer,90.9090909090909
+OFF_007,APPRECIER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,apprecier,VERB,Une aisance commerciale est appréciée pour la fidélisation et le développement du portefeuille.,1.0,apprecier,100.0
+OFF_007,PROPOSER,0.814,hybrid_soft_sections+verbs+NP+spacy+fuzzy,propos,NP,propos,0.8,proposer,85.71428571428572
+OFF_007,APPRENDRE,0.582,hybrid_soft_sections+verbs+NP+spacy+fuzzy,prendre,VERB,"Vos missions
+
+Vous rejoindrez une équipe dynamique et prendrez progressivement en charge un portefeuille d’environ 700 dossiers BNC simples, majoritairement composés d’entreprises individuelles d’avocats collaborateurs, ",0.462,apprendre,87.5
+OFF_007,CREER,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,creer,VERB,Ce poste clé est créé dans un contexte de structuration et de développement.,0.438,creer,100.0
+OFF_008,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,"La réalisation de l'ensemble des opérations nécessaires à l'établissement des états financiers : Comptes annuels, liasses fiscales, bilan imagé,
+La supervision des travaux de tenue et des déclarations fiscales récurrente",3.2,offrir,100.0
+OFF_008,ACCOMPAGNER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,accompagner,VERB,"Fondé en 2021, notre cabinet se distingue par son approche humaine et coopérative, offrant une expertise pluridisciplinaire pour accompagner les TPE, PME, artisans, commerçants, et professions libérales dans leur croissa",2.0,accompagner,100.0
+OFF_008,COMPTABLISER,0.857,hybrid_soft_sections+verbs+NP+spacy+fuzzy,comptable,NP,Comptable,1.6,comptabliser,85.71428571428572
+OFF_008,CONTRIBUER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,contribuer,VERB,"La réalisation de l'ensemble des opérations nécessaires à l'établissement des états financiers : Comptes annuels, liasses fiscales, bilan imagé,
+La supervision des travaux de tenue et des déclarations fiscales récurrente",1.2,contribuer,100.0
+OFF_008,STIMULER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,stimuler,VERB,"Nos petits + ?
+Un environnement de travail stimulant au sein de nos locaux
+RTT pour soutenir votre équilibre personnel et professionnel
+Des opportunités de formation continue pour vous accompagner dans votre développemen",1.0,stimuler,100.0
+OFF_008,CONFIER,0.875,hybrid_soft_sections+verbs+NP+spacy+fuzzy,confirmer,VERB,Collaborateur comptable confirmé / Expert,1.0,confier,87.5
+OFF_008,PROGRESSER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,progresser,VERB,"Avez-vous l'ambition de progresser au sein d'un cabinet comptable qui allie un environnement agréable, une diversité de dossiers et un équilibre entre vie professionnelle et personnelle ?",1.0,progresser,100.0
+OFF_008,COMPTABILISER,0.836,hybrid_soft_sections+verbs+NP+spacy+fuzzy,comptabilite,NP,comptabilité,0.8,comptabiliser,88.0
+OFF_008,PROPOSER,0.814,hybrid_soft_sections+verbs+NP+spacy+fuzzy,propos,NP,propos,0.8,proposer,85.71428571428572
+OFF_008,APPRENDRE,0.582,hybrid_soft_sections+verbs+NP+spacy+fuzzy,prendre,VERB,Prenez votre envol en rejoignant bee-Xpert C&EC !,0.35,apprendre,87.5
+OFF_009,PROMOUVOIR,0.824,hybrid_soft_sections+verbs+NP+spacy+fuzzy,pouvoir,VERB,"Nous les aidons à fortement remonter leurs notes, retrouver confiance en eux et pouvoir choisir les études de leurs rêves.",2.2,promouvoir,82.35294117647058
+OFF_009,CHOISIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,choisir,VERB,"C'est toi qui choisis, on s'adapte.",2.0,choisir,100.0
+OFF_009,ADAPTER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,adapter,VERB,"C'est toi qui choisis, on s'adapte.",1.25,adapter,100.0
+OFF_009,RECHERCHER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,rechercher,VERB,"C'est simple, nous recherchons 3 critères principaux :
+
+Professeur de mathématiques et/ou physique et/ou SVT
+À propos de l’offre d’emploi
+😊💼 Professeurs particuliers passionnés par l'enseignement, nous avons une opportun",1.2,rechercher,100.0
+OFF_009,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,"C'est simple, nous recherchons 3 critères principaux :
+
+Professeur de mathématiques et/ou physique et/ou SVT
+À propos de l’offre d’emploi
+😊💼 Professeurs particuliers passionnés par l'enseignement, nous avons une opportun",1.2,offrir,100.0
+OFF_009,TRANSMETTRE,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,transmettre,VERB,"Pédagogue : tu dois avoir cette capacité à transmettre la connaissance, à réexpliquer plusieurs fois jusqu'à ce que l'élève ait le déclic.",1.2,transmettre,100.0
+OFF_009,ACCOMPAGNER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,accompagner,VERB,"Nous sommes un Centre de Réussite Scolaire, en ligne, et nous accompagnons les élèves de collège et lycée dans un cadre extra scolaire.",1.0,accompagner,100.0
+OFF_009,GUIDER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,guider,VERB,"Tu dois également être à l'écoute de l'élève pour le guider sur le chemin de la compréhension, sans lui imposer une vision unique.
+Passionné : tu dois adorer la matière que tu enseignes, et également adorer la transmettr",1.0,guider,100.0
+OFF_009,PROPOSER,0.814,hybrid_soft_sections+verbs+NP+spacy+fuzzy,propos,NP,propos,0.8,proposer,85.71428571428572
+OFF_009,ORDONNER,0.57,hybrid_soft_sections+verbs+NP+spacy+fuzzy,donner,VERB,"Ponctuellement pendant l'année, tu auras la possibilité de donner des stages intensifs.
+Temps de travail hebdomadaires :",0.77,ordonner,85.71428571428572
+OFF_010,ACCOMPAGNER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,accompagner,VERB,L’Entreprise vous accompagne dès votre prise poste par une formation spécifique à l’animation et à l’ingénierie pédagogique.,3.4,accompagner,100.0
+OFF_010,PROMOUVOIR,0.824,hybrid_soft_sections+verbs+NP+spacy+fuzzy,pouvoir,VERB,"Grâce à cette première expérience, vous pourrez saisir de belles opportunités (management d’équipe, expertise, management de projets) au sein de l’Entreprise et du Groupe.",2.4,promouvoir,82.35294117647058
+OFF_010,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,Vous participez à la veille réglementaire de l’offre de formation.,2.2,offrir,100.0
+OFF_010,ELABORER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,elaborer,VERB,"En tant qu’Ingénieur Formateur, vous élaborez et mettez à jour des formations spécifiques au métier de la distribution électrique (exploitation du réseau de distribution électrique, travaux sous tension, raccordement au ",2.0,elaborer,100.0
+OFF_010,ANTICIPER,0.842,hybrid_soft_sections+verbs+NP+spacy+fuzzy,participer,VERB,Vous participez à l’amélioration continu des formations.,2.0,anticiper,84.21052631578947
+OFF_010,IMAGINER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,imaginer,VERB,"d’un esprit créatif et curieux vous pourrez imaginer les formations de demain.
+Vous êtes sensible au respect des règles de prévention / sécurité et capable de les partager.
+Des déplacements ponctuels sont à prévoir sur d",1.5,imaginer,100.0
+OFF_010,PREVOIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,prevoir,VERB,"d’un esprit créatif et curieux vous pourrez imaginer les formations de demain.
+Vous êtes sensible au respect des règles de prévention / sécurité et capable de les partager.
+Des déplacements ponctuels sont à prévoir sur d",1.5,prevoir,100.0
+OFF_010,DEVELOPPER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,developper,VERB,"Présents sur 700 sites sur l'ensemble du territoire, nos 42 000 salariés bénéficient d'un terrain de jeu exceptionnel pour développer un réseau électrique de plus en plus intelligent, connecté et performant.",1.25,developper,100.0
+OFF_010,EVALUER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,evaluer,VERB,Vous évaluez les salariés en formation par un contrôle des acquis et des connaissances.,1.2,evaluer,100.0
+OFF_010,CONQUERIR,0.824,hybrid_soft_sections+verbs+NP+spacy+fuzzy,acquerir,VERB,Vous êtes débutant(e) ou avez acquis une première expérience.,1.2,conquerir,82.35294117647058
+OFF_010,PROPOSER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,proposer,VERB,"selon le diplôme avec une majoration en cas de double diplôme et au-delà en fonction de l’expérience acquise.
+Au-delà de votre rémunération fixe, Enedis a à cœur de vous encourager sur vos résultats et dans votre bien-êt",1.2,proposer,100.0
+OFF_010,DISTRIBUER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,distribuer,VERB,"selon le diplôme avec une majoration en cas de double diplôme et au-delà en fonction de l’expérience acquise.
+Au-delà de votre rémunération fixe, Enedis a à cœur de vous encourager sur vos résultats et dans votre bien-êt",1.2,distribuer,100.0
+OFF_010,RECHERCHER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,rechercher,VERB,"· 23 autres personnes ont cliqué sur Postuler
+Promue par un recruteur ·
+ Temps plein
+À propos de l’offre d’emploi
+Dans le cadre du développement de nos activités et du maintien de nos compétences, nous recherchons un(e) ",1.2,rechercher,100.0
+OFF_010,CONTRIBUER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,contribuer,VERB,"Vous contribuez au développement de l'offre de formation et à la conception de nouveaux produits avec des supports pédagogiques innovants (e-Learning, MOOC, Serious Game, Réalité Augmentée…).",1.0,contribuer,100.0
+OFF_010,FORMER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,former,VERB,"Comme le prévoit la loi, elle a établi un code de bonne conduite auquel ses collaborateurs sont formés afin d'en respecter les principes et engagements au quotidien.",1.0,former,100.0
+OFF_010,PROSPECTER,0.842,hybrid_soft_sections+verbs+NP+spacy+fuzzy,respecter,VERB,"Comme le prévoit la loi, elle a établi un code de bonne conduite auquel ses collaborateurs sont formés afin d'en respecter les principes et engagements au quotidien.",1.0,prospecter,84.21052631578947
+OFF_010,ANIMER,0.792,hybrid_soft_sections+verbs+NP+spacy+fuzzy,animez,NP,animez,0.8,animer,83.33333333333334
+OFF_010,APPRENDRE,0.582,hybrid_soft_sections+verbs+NP+spacy+fuzzy,prendre,VERB,"Conformément aux engagements pris par Enedis en faveur de l'accueil et de l'intégration des personnes en situation de handicap, cet emploi est ouvert à toutes et à tous sous réserve de l'aptitude médicale délivrée par la",0.35,apprendre,87.5
+OFF_011,COLLABORER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,collaborer,VERB,"Nouvelles Technologies » sera plus spécialement chargé(e) de :
+ Analyser les schémas techniques des projets et les spécifications fonctionnelles, pour poser l’analyse juridico-technique adéquate afin de guider les opérat",2.1,collaborer,100.0
+OFF_011,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,"chez Crédit Mutuel Alliance Fédérale
+À propos de l’offre d’emploi",2.0,offrir,100.0
+OFF_011,ANALYSER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,analyser,VERB,"Nouvelles Technologies » sera plus spécialement chargé(e) de :
+ Analyser les schémas techniques des projets et les spécifications fonctionnelles, pour poser l’analyse juridico-technique adéquate afin de guider les opérat",1.25,analyser,100.0
+OFF_011,REALISER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,realiser,VERB,"Nouvelles Technologies » sera plus spécialement chargé(e) de :
+ Analyser les schémas techniques des projets et les spécifications fonctionnelles, pour poser l’analyse juridico-technique adéquate afin de guider les opérat",1.25,realiser,100.0
+OFF_011,ACCOMPAGNER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,accompagner,VERB,"Le groupe fait le choix d’une politique sociale encourageant le développement des compétences et la promotion interne, d’une protection sociale de haut niveau ainsi qu’une politique volontariste en matière de diversité, ",1.2,accompagner,100.0
+OFF_011,INVENTER,0.889,hybrid_soft_sections+verbs+NP+spacy+fuzzy,reinventer,VERB,"Intégrer le Crédit Mutuel, c’est faire partie d’un collectif qui veut réinventer l’expérience client dans de nombreux domaines : la banque, l’assurance, la téléphonie, la location de véhicules ou de vélos, la commerciali",1.2,inventer,88.88888888888889
+OFF_011,CONTRIBUER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,contribuer,VERB,"il/elle aura en charge
+ Contribuer à l’harmonisation des contrats CM et CIC et à la gestion de la Contrathèque groupe
+ Collaborer avec les différents acteurs (CCS Organisation, MOA et MOE, Direction Commerciale, Engageme",1.1,contribuer,100.0
+OFF_011,GUIDER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,guider,VERB,"Nouvelles Technologies » sera plus spécialement chargé(e) de :
+ Analyser les schémas techniques des projets et les spécifications fonctionnelles, pour poser l’analyse juridico-technique adéquate afin de guider les opérat",1.0,guider,100.0
+OFF_011,RECOMMANDER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,recommander,VERB,"Nouvelles Technologies » sera plus spécialement chargé(e) de :
+ Analyser les schémas techniques des projets et les spécifications fonctionnelles, pour poser l’analyse juridico-technique adéquate afin de guider les opérat",1.0,recommander,100.0
+OFF_011,PROPOSER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,proposer,VERB,"Nouvelles Technologies » sera plus spécialement chargé(e) de :
+ Analyser les schémas techniques des projets et les spécifications fonctionnelles, pour poser l’analyse juridico-technique adéquate afin de guider les opérat",1.0,proposer,100.0
+OFF_011,VALIDER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,valider,VERB,"Valider juridiquement et participer à la rédaction de l’ensemble des communications commerciales relatives aux produits et services de la banque, en liaison avec la Conformité Groupe",1.0,valider,100.0
+OFF_011,ANTICIPER,0.842,hybrid_soft_sections+verbs+NP+spacy+fuzzy,participer,VERB,"Valider juridiquement et participer à la rédaction de l’ensemble des communications commerciales relatives aux produits et services de la banque, en liaison avec la Conformité Groupe",1.0,anticiper,84.21052631578947
+OFF_011,ECOUTER,0.833,hybrid_soft_sections+verbs+NP+spacy+fuzzy,coter,VERB,Par son organisation décentralisée qui fait de lui la seule banque coopérative non cotée en bourse de France.,1.0,ecouter,83.33333333333334
+OFF_011,REDIGER,0.95,hybrid_soft_sections+verbs+NP+spacy+fuzzy,rediger,NP,Rédiger,0.8,rediger,100.0
+OFF_011,FAIRE,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,faire,VERB,"Intégrer le Crédit Mutuel, c’est faire partie d’un collectif qui veut réinventer l’expérience client dans de nombreux domaines : la banque, l’assurance, la téléphonie, la location de véhicules ou de vélos, la commerciali",0.42,faire,100.0
+OFF_011,CONFIER,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,confier,VERB,intervention qui lui sera confié,0.35,confier,100.0
+OFF_012,COORDONNER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,coordonner,VERB,- Planifier et coordonner les projets de transformation digitale,1.875,coordonner,100.0
+OFF_012,EVALUER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,evaluer,VERB,- Rechercher et évaluer les solutions technologiques adaptées,1.5,evaluer,100.0
+OFF_012,OPTIMISER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,optimiser,VERB,- Explorer les outils IA pour optimiser les opérations,1.5,optimiser,100.0
+OFF_012,PILOTER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,piloter,VERB,"Technologie & Numérique, Industrie & Ingénierie, Services aux Entreprises
+
+Chef de projet transformation digitale H/F
+Poste de Chef de projet et Communicant pour piloter la transformation numérique d'une ETI industrielle",1.0,piloter,100.0
+OFF_012,PLANIFIER,0.95,hybrid_soft_sections+verbs+NP+spacy+fuzzy,planifier,NP,- Planifier,0.8,planifier,100.0
+OFF_012,RECHERCHER,0.95,hybrid_soft_sections+verbs+NP+spacy+fuzzy,rechercher,NP,- Rechercher,0.8,rechercher,100.0
+OFF_012,DEVELOPPER,0.95,hybrid_soft_sections+verbs+NP+spacy+fuzzy,developper,NP,- Développer,0.8,developper,100.0
+OFF_012,COLLABORER,0.792,hybrid_soft_sections+verbs+NP+spacy+fuzzy,collaborateurs,NP,collaborateurs,0.8,collaborer,83.33333333333334
+OFF_012,CREER,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,creer,VERB,"- Sachant, capable de créer des référentiels et des guides",0.787,creer,100.0
+OFF_013,EVALUER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,evaluer,VERB,";
+Évaluer les acquis et proposer des actions d’",2.2,evaluer,100.0
+OFF_013,PROPOSER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,proposer,VERB,";
+Évaluer les acquis et proposer des actions d’",2.0,proposer,100.0
+OFF_013,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,"Formateur Technique (Dagneux) (H/F)
+À propos de l’offre d’emploi
+Et si on parlait de Toyota Material Handling France ?
+Leader et spécialiste de la manutention, TOYOTA",2.0,offrir,100.0
+OFF_013,DEVELOPPER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,developper,VERB,Développer les compétences des techniciens sur des thématiques variées :,1.5,developper,100.0
+OFF_013,CONCEVOIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,concevoir,VERB,"Votre mission : accompagner le développement des compétences techniques au sein de Toyota Material Handling France et contribuer à l’excellence de notre réseau.
+Vous aurez pour mission de concevoir, animer et évaluer des",1.5,concevoir,100.0
+OFF_013,CREER,0.7,hybrid_soft_sections+verbs+NP+spacy+fuzzy,creer,VERB,"Vous savez créer un climat d’apprentissage positif et motivant.
+Vous maîtrisez les outils informatiques et avez une bonne connaissance des produits de manutention.
+Une première expérience en animation de formation ou en ",1.325,creer,100.0
+OFF_013,REALISER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,realiser,VERB,"Enfin ensemble nous visons tous à réaliser un travail de qualité grâce au travail d’équipe, la collaboration, l’innovation et la créativité.",1.25,realiser,100.0
+OFF_013,RECHERCHER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,rechercher,VERB,"Nous avons justement un poste à pourvoir !
+Dans le cadre d’une création de poste, nous recherchons un Formateur Technique (H/F) pour rejoindre notre Direction Technique.",1.2,rechercher,100.0
+OFF_013,ACCOMPAGNER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,accompagner,VERB,"Votre mission : accompagner le développement des compétences techniques au sein de Toyota Material Handling France et contribuer à l’excellence de notre réseau.
+Vous aurez pour mission de concevoir, animer et évaluer des",1.2,accompagner,100.0
+OFF_013,CONTRIBUER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,contribuer,VERB,"Votre mission : accompagner le développement des compétences techniques au sein de Toyota Material Handling France et contribuer à l’excellence de notre réseau.
+Vous aurez pour mission de concevoir, animer et évaluer des",1.2,contribuer,100.0
+OFF_013,ANIMER,0.95,hybrid_soft_sections+verbs+NP+spacy+fuzzy,animer,NP,Animer,0.8,animer,100.0
+OFF_013,PRESENTER,0.8,hybrid_soft_sections+verbs+NP+spacy+fuzzy,presentiel,NP,présentiel,0.8,presenter,84.21052631578947
+OFF_013,ASSURER,0.95,hybrid_soft_sections+verbs+NP+spacy+fuzzy,assurer,NP,Assurer,0.8,assurer,100.0
+OFF_013,REPARTIR,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,repartir,VERB,"Nous proposons à nos clients une gamme étendue de produits ainsi que des services performants offrant la possibilité de répondre de manière personnalisée à tout type de demande.
+L’entreprise et ses 1000 collaborateurs ré",0.438,repartir,100.0
+OFF_013,FAIRE,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,faire,VERB,"mécanique, hydraulique, électricité, thermique, sécurité et bonnes pratiques ;
+Créer, actualiser et faire évoluer les supports pédagogiques, en lien avec les équipes techniques et formation ;",0.35,faire,100.0
+OFF_014,VALIDER,0.833,hybrid_soft_sections+verbs+NP+spacy+fuzzy,aider,VERB,"Chaque jour, nous nous efforçons de concevoir une meilleure façon de travailler afin d'aider les salariés d'entreprises du monde entier à rester productifs et à réaliser leur
+
+potentiel.",4.0,valider,83.33333333333334
+OFF_014,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,"Formateur H/F 
+
+À propos de l’offre d’",3.0,offrir,100.0
+OFF_014,CONCEVOIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,concevoir,VERB,"Chaque jour, nous nous efforçons de concevoir une meilleure façon de travailler afin d'aider les salariés d'entreprises du monde entier à rester productifs et à réaliser leur
+
+potentiel.",2.75,concevoir,100.0
+OFF_014,DEVELOPPER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,developper,VERB,"Nous vous accompagnons tout au long de votre parcours, vous aidons à développer vos compétences et à améliorer vos talents.",2.75,developper,100.0
+OFF_014,REALISER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,realiser,VERB,"Chaque jour, nous nous efforçons de concevoir une meilleure façon de travailler afin d'aider les salariés d'entreprises du monde entier à rester productifs et à réaliser leur
+
+potentiel.",2.5,realiser,100.0
+OFF_014,ADAPTER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,adapter,VERB,"et adapter la pédagogie de la formation en conséquence
+Mettre en place des actions correctives et préventives grâce aux évaluations des stagiaires
+Réaliser des feedbacks suite à la réalisation des sessions auprès des ges",2.5,adapter,100.0
+OFF_014,AMELIORER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,ameliorer,VERB,"Nous vous accompagnons tout au long de votre parcours, vous aidons à développer vos compétences et à améliorer vos talents.",2.2,ameliorer,100.0
+OFF_014,TRANSFORMER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,transformer,VERB,"Vous sortez des sentiers battus et transformez les problèmes en solutions, les idées en actions et les plans en résultats.
+
+Est-ce que nos valeurs vous ressemblent ?
+
+Ce que vous allez faire : Responsabilités
+
+Animer des",2.2,transformer,100.0
+OFF_014,PROMOUVOIR,0.824,hybrid_soft_sections+verbs+NP+spacy+fuzzy,pouvoir,VERB,"Le sens de la relation client
+
+Vous Aimerez Travailler Ici Parce Que Vous Pouvez
+
+Développer vos forces et laisser votre trace : nous voulons que vous remettiez les choses en question, et nous sommes ouverts aux nouvelle",2.0,promouvoir,82.35294117647058
+OFF_014,PRESENTER,0.842,hybrid_soft_sections+verbs+NP+spacy+fuzzy,presentiel,NP,présentiel,1.6,presenter,84.21052631578947
+OFF_014,CONSEILLER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,conseiller,VERB,"Vous êtes constructif, altruiste et à l’écoute, vous savez conseiller et avez le sens du service.",1.5,conseiller,100.0
+OFF_014,CREER,0.7,hybrid_soft_sections+verbs+NP+spacy+fuzzy,creer,VERB,"Vous sortez des sentiers battus et transformez les problèmes en solutions, les idées en actions et les plans en résultats.
+
+Est-ce que nos valeurs vous ressemblent ?
+
+Ce que vous allez faire : Responsabilités
+
+Animer des",1.4,creer,100.0
+OFF_014,APPRENDRE,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,apprendre,VERB,"Vous apprenez, développez et améliorez ""ce qui a été fait auparavant"".
+
+Prise d’initiative et ambition.",1.25,apprendre,100.0
+OFF_014,ANALYSER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,analyser,VERB,Analyser les besoins des stagiaires,1.25,analyser,100.0
+OFF_014,COMPOSER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,composer,VERB,Aimer ce que vous faites : soyez-vous même dans une culture composée de perspectives et idées très diverses.,1.25,composer,100.0
+OFF_014,ACCOMPAGNER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,accompagner,VERB,"Nous vous accompagnons tout au long de votre parcours, vous aidons à développer vos compétences et à améliorer vos talents.",1.2,accompagner,100.0
+OFF_014,ANTICIPER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,anticiper,VERB,Vous anticipez les bonnes réponses et êtes capables de mettre en place des actions efficaces.,1.2,anticiper,100.0
+OFF_014,COLLABORER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,collaborer,VERB,"Dont Vous Aurez Besoin
+
+Expérience minimum de 3 ans en tant que Formateur (idéalement)
+Formation Supérieure (bac + 3/5) (idéalement en RH)
+Connaissance du SIRH et de la Paie (En priorité ADP LINK et/ou DECIDIUM et/ou GTA",1.2,collaborer,100.0
+OFF_014,ANIMER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,animer,VERB,"Dont Vous Aurez Besoin
+
+Expérience minimum de 3 ans en tant que Formateur (idéalement)
+Formation Supérieure (bac + 3/5) (idéalement en RH)
+Connaissance du SIRH et de la Paie (En priorité ADP LINK et/ou DECIDIUM et/ou GTA",1.2,animer,100.0
+OFF_014,APPLIQUER,0.824,hybrid_soft_sections+verbs+NP+spacy+fuzzy,applicer,VERB,"Hiring decisions are based upon ADP’s operating needs, and applicant merit including, but not limited to, qualifications, experience, ability, availability, cooperation, and job performance.",1.2,appliquer,82.35294117647058
+OFF_015,DEVELOPPER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,developper,VERB,"Au sein de cet environnement, vous développez votre vision système des installations de tirs terrestres et navales ainsi que votre compréhension des exigences des Armées de terre et des Marines Nationales.",2.5,developper,100.0
+OFF_015,CONTRIBUER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,contribuer,VERB,"en vous appuyant sur les experts techniques et la stratégie produit,
+mise en adéquation des ressources et des besoins du projet en collaboration avec les différents hiérarchiques métiers,
+pilotage d'une équipe de 5 ou 6 ",2.1,contribuer,100.0
+OFF_015,PROPOSER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,proposer,VERB,", nous proposons un accompagnement personnalisé afin de faciliter votre installation, pouvant inclure un soutien au déménagement, ainsi qu’un appui dans la recherche de votre logement, d’écoles et d’activités sportives e",2.0,proposer,100.0
+OFF_015,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,À propos de l’offre d’,2.0,offrir,100.0
+OFF_015,ETUDIER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,etudier,VERB,Ces dispositifs sont étudiés selon votre situation individuelle et votre lieu de résidence actuelle.,1.25,etudier,100.0
+OFF_015,NEGOCIER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,negocier,VERB,"Organisation
+Esprit de synthèse
+Aptitude à négocier",1.25,negocier,100.0
+OFF_015,ANIMER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,animer,VERB,Votre capacité à animer les réunions d’avancement et à échanger avec les principaux membres du projet (notamment la maîtrise d'ouvrage) permettent de fédérer les équipes et d'assurer la réussite de votre programme.,1.2,animer,100.0
+OFF_015,ECHANGER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,echanger,VERB,Votre capacité à animer les réunions d’avancement et à échanger avec les principaux membres du projet (notamment la maîtrise d'ouvrage) permettent de fédérer les équipes et d'assurer la réussite de votre programme.,1.2,echanger,100.0
+OFF_015,ASSURER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,assurer,VERB,Votre capacité à animer les réunions d’avancement et à échanger avec les principaux membres du projet (notamment la maîtrise d'ouvrage) permettent de fédérer les équipes et d'assurer la réussite de votre programme.,1.2,assurer,100.0
+OFF_015,PILOTER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,piloter,VERB,"pilotez le développement et l'industrialisation d'équipements électroniques et électriques :
+élaboration du projet,
+contribution aux architectures équipements",1.0,piloter,100.0
+OFF_015,PROMOUVOIR,0.824,hybrid_soft_sections+verbs+NP+spacy+fuzzy,pouvoir,VERB,", nous proposons un accompagnement personnalisé afin de faciliter votre installation, pouvant inclure un soutien au déménagement, ainsi qu’un appui dans la recherche de votre logement, d’écoles et d’activités sportives e",1.0,promouvoir,82.35294117647058
+OFF_015,APPORTER,0.857,hybrid_soft_sections+verbs+NP+spacy+fuzzy,porter,VERB,Ces équipements sont parties intégrantes de systèmes de lanceurs terrestres ou lanceurs sur plateforme navale pour missile moyenne portée.,1.0,apporter,85.71428571428572
+OFF_015,SYNTHETISER,0.8,hybrid_soft_sections+verbs+NP+spacy+fuzzy,synthese,NP,synthèse,0.8,synthetiser,84.21052631578947
+OFF_016,CONFIER,0.875,hybrid_soft_sections+verbs+NP+spacy+fuzzy,confirmer,VERB,Consultant confirmé en diagnostic organisationnel,2.0,confier,87.5
+OFF_016,ACCOMPAGNER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,accompagner,VERB,"Nos équipes pluridisciplinaires élaborent pour nos clients des diagnostics et des préconisations alternatives et opérationnelles pour accompagner les transformations au cœur de leurs entreprises.
+SECAFI",2.0,accompagner,100.0
+OFF_016,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,"- secteur numérique (H/F) 
+À propos de l’offre d’",1.5,offrir,100.0
+OFF_016,CONSEILLER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,conseiller,VERB,"une grande diversité de métiers, SECAFI, une société du Groupe Alpha, conseille les représentants des salariés (CSE) sur les sujets économiques, stratégiques, sociaux et environnementaux.",1.25,conseiller,100.0
+OFF_016,CONQUERIR,0.824,hybrid_soft_sections+verbs+NP+spacy+fuzzy,acquerir,VERB,", vous avez une expérience de 7 ans minimum acquise idéalement dans le conseil en organisation et management.",1.2,conquerir,82.35294117647058
+OFF_016,ELABORER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,elaborer,VERB,"Nos équipes pluridisciplinaires élaborent pour nos clients des diagnostics et des préconisations alternatives et opérationnelles pour accompagner les transformations au cœur de leurs entreprises.
+SECAFI",1.0,elaborer,100.0
+OFF_016,PROPOSER,0.814,hybrid_soft_sections+verbs+NP+spacy+fuzzy,propos,NP,propos,0.8,proposer,85.71428571428572
+OFF_017,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,À propos de l’offre d’,2.0,offrir,100.0
+OFF_017,COMPOSER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,composer,VERB,"La Digital Factory de TotalEnergies est composée de 300 personnes, 30 Squads, 39% de femmes et 25 nationalités.",1.25,composer,100.0
+OFF_017,FOURNIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,fournir,VERB,"Elle crée et déploie des solutions digitales sur l'ensemble des sites de la compagnie TotalEnergies afin de fournir une énergie propre, fiable et abordable au plus grand nombre.
+Pour réussir à intégrer les métiers de l'é",1.0,fournir,100.0
+OFF_017,ACCOMPAGNER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,accompagner,VERB,"Avec près de 3 400 ingénieurs et techniciens, répartis sur 9 sites en Europe, OneTech est organisé autour de 3 pôles, un pôle industriel pour accompagner la croissance de la Compagnie da",1.0,accompagner,100.0
+OFF_017,PROPOSER,0.814,hybrid_soft_sections+verbs+NP+spacy+fuzzy,propos,NP,propos,0.8,proposer,85.71428571428572
+OFF_017,CREER,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,creer,VERB,"Elle crée et déploie des solutions digitales sur l'ensemble des sites de la compagnie TotalEnergies afin de fournir une énergie propre, fiable et abordable au plus grand nombre.
+Pour réussir à intégrer les métiers de l'é",0.438,creer,100.0
+OFF_017,REPARTIR,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,repartir,VERB,"Avec près de 3 400 ingénieurs et techniciens, répartis sur 9 sites en Europe, OneTech est organisé autour de 3 pôles, un pôle industriel pour accompagner la croissance de la Compagnie da",0.438,repartir,100.0
+OFF_017,FAIRE,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,faire,VERB,"Elle permet d'accélérer la production interne de solutions digitales pour les activités de la Compagnie dans les 130 pays où elle est présente.
+Pour ce faire, elle allie l'agilité et l'esprit pionnier d'une entreprise te",0.35,faire,100.0
+OFF_018,CONTRIBUER,0.842,hybrid_soft_sections+verbs+NP+spacy+fuzzy,continuer,VERB,"Formation Bac+2 à Bac+5 en méthodes, productique, industrialisation, mécanique ou équivalent, 
+Expérience réussie (2–5 ans minimum) dans une fonction méthodes/industrialisation, 
+Capacité à travailler de manière transver",1.2,contribuer,84.21052631578947
+OFF_018,RECHERCHER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,rechercher,VERB,", nous recherchons un Technicien Méthodes H/F.",1.2,rechercher,100.0
+OFF_018,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,"Méthodes H/F 
+À propos de l’offre d’",1.0,offrir,100.0
+OFF_018,MOBILISER,0.889,hybrid_soft_sections+verbs+NP+spacy+fuzzy,mobiliter,VERB,"Nouvelles mobilités, véhicules autonomes, usine du futur, réalité augmentée... sont les préoccupations quotidiennes de nos 15 000 ingénieux talents répartis dans plus de 30 pays.",1.0,mobiliser,88.88888888888889
+OFF_018,ARGUMENTER,0.842,hybrid_soft_sections+verbs+NP+spacy+fuzzy,augmenter,VERB,"Nouvelles mobilités, véhicules autonomes, usine du futur, réalité augmentée... sont les préoccupations quotidiennes de nos 15 000 ingénieux talents répartis dans plus de 30 pays.",1.0,argumenter,84.21052631578947
+OFF_018,PROPOSER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,proposer,VERB,"À vous de jouer, rejoignez-nous !
+Acteur référent dans le secteur automobile, le Groupe propose des solutions de pointe en matière de design, de conception, de développement et d’essais pour accompagner les constructeurs",1.0,proposer,100.0
+OFF_018,ACCOMPAGNER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,accompagner,VERB,"À vous de jouer, rejoignez-nous !
+Acteur référent dans le secteur automobile, le Groupe propose des solutions de pointe en matière de design, de conception, de développement et d’essais pour accompagner les constructeurs",1.0,accompagner,100.0
+OFF_018,SYNTHETISER,0.8,hybrid_soft_sections+verbs+NP+spacy+fuzzy,synthese,NP,synthèse,0.8,synthetiser,84.21052631578947
+OFF_018,ORDONNER,0.57,hybrid_soft_sections+verbs+NP+spacy+fuzzy,donner,VERB,"Que vous soyez étudiant, jeune diplômé ou expérimenté, ingénieur ou chef de projet, vous trouverez chez SEGULA l’opportunité qui donnera un sens nouveau à votre carrière.",0.7,ordonner,85.71428571428572
+OFF_018,REPARTIR,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,repartir,VERB,"Nouvelles mobilités, véhicules autonomes, usine du futur, réalité augmentée... sont les préoccupations quotidiennes de nos 15 000 ingénieux talents répartis dans plus de 30 pays.",0.438,repartir,100.0
+OFF_018,DEFINIR,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,definir,VERB,", Vos Missions Consisteront à
+Concevoir et définir les gammes de fabrication, assemblage ou réparation en accord avec le dossier de définit",0.42,definir,100.0
+OFF_019,APPORTER,0.857,hybrid_soft_sections+verbs+NP+spacy+fuzzy,porter,VERB,"C’est un réseau avec plus de 110 clubs en France, nous proposons une expérience fitness moderne, conviviale et accessible, portée par des équipements haut de gamme, des cours collectifs variés et un accompagnement person",2.3,apporter,85.71428571428572
+OFF_019,TRANSMETTRE,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,transmettre,VERB,"Tu aimes transmettre, être sur scène et motiver la Team !",2.1,transmettre,100.0
+OFF_019,RECHERCHER,0.824,hybrid_soft_sections+verbs+NP+spacy+fuzzy,cherche,VERB,"Tu es dynamique, souriant(e), rigoureux(se) et organisé(e).
+✌ Ici, on ne cherche pas juste un coach : On cherche une personnalité, une énergie, un talent.",2.0,rechercher,82.35294117647058
+OFF_019,PROPOSER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,proposer,VERB,"C’est un réseau avec plus de 110 clubs en France, nous proposons une expérience fitness moderne, conviviale et accessible, portée par des équipements haut de gamme, des cours collectifs variés et un accompagnement person",1.2,proposer,100.0
+OFF_019,PROGRESSER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,progresser,VERB,"Nous sommes convaincus que la motivation, l’énergie et l’esprit d’équipe sont essentiels pour progresser, aussi bien pour nos adhérents que pour nos collaborateurs.
+Plus qu’un club, une expérience fitness où l’humain est",1.2,progresser,100.0
+OFF_019,ASSURER,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,assurer,VERB,"Assurer la prise en charge des séances d’essai, avec une attention particulière portée à l’accueil et à l’accompagnement.
+Faire vibrer la salle : motiver, fédérer, donner le rythme et transmettre ta passion.
+Participer à",1.1,assurer,100.0
+OFF_019,ANTICIPER,0.842,hybrid_soft_sections+verbs+NP+spacy+fuzzy,participer,VERB,"Assurer la prise en charge des séances d’essai, avec une attention particulière portée à l’accueil et à l’accompagnement.
+Faire vibrer la salle : motiver, fédérer, donner le rythme et transmettre ta passion.
+Participer à",1.1,anticiper,84.21052631578947
+OFF_019,OFFRIR,1.0,hybrid_soft_sections+verbs+NP+spacy+fuzzy,offrir,VERB,À propos de l’offre d’,1.0,offrir,100.0
+OFF_019,PROMOUVOIR,0.824,hybrid_soft_sections+verbs+NP+spacy+fuzzy,pouvoir,VERB,Le poste est à pouvoir dès que possible.,1.0,promouvoir,82.35294117647058
+OFF_019,FAIRE,0.665,hybrid_soft_sections+verbs+NP+spacy+fuzzy,faire,VERB,"Encadrer les adhérents lors des cours collectifs et small group, en intérieur comme en extérieur.
+Animer et faire vivre des cours à forte énergie (LesMills & Freestyle selon ton profil)",0.805,faire,100.0
+OFF_019,ORDONNER,0.57,hybrid_soft_sections+verbs+NP+spacy+fuzzy,donner,VERB,"Assurer la prise en charge des séances d’essai, avec une attention particulière portée à l’accueil et à l’accompagnement.
+Faire vibrer la salle : motiver, fédérer, donner le rythme et transmettre ta passion.
+Participer à",0.385,ordonner,85.71428571428572

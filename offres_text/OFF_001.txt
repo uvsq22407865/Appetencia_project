@@ -1,0 +1,77 @@
+
+STAGE - Ingénieur : Tests de performance sur plateforme de télécommunications F/H  chez Thales
+STAGE - Ingénieur : Tests de performance sur plateforme de télécommunications F/H
+Thales · Gennevilliers, Île-de-France, France (Hybride)
+
+ STAGE - Ingénieur : Tests de performance sur plateforme de télécommunications F/H  chez Thales
+Voir plus d’options
+Personnes que vous pouvez contacter
+
+
+
+Meriem et d’autres membres de votre réseau
+
+Tout afficher
+À propos de l’offre d’emploi
+Lieu : Cristal, France
+
+Construisons ensemble un avenir de confiance
+
+Thales est un leader mondial des hautes technologies spécialisé dans trois secteurs d’activité : Défense & Sécurité, Aéronautique & Spatial, et Cyber & Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l’environnement et plus inclusif. Le Groupe investit près de 4 milliards d’euros par an en Recherche & Développement, notamment dans des domaines clés de l’innovation tels que l’IA, la cybersécurité, le quantique, les technologies du cloud et la 6G. Thales compte près de 81 000 collaborateurs dans 68 pays.
+
+Nos engagements, vos avantages
+
+Notre savoir-faire technologique
+Notre attention portée à l’équilibre des collaborateurs
+Un environnement inclusif et bienveillant
+Un engagement sociétal et environnemental reconnu (Thales Solidarity, indice CAC 40 ESG…)
+
+
+Votre quotidien
+
+Le Campus de Gennevilliers est le cœur des activités de conception, de développement et de soutien des grands systèmes de défense : radiocommunications, réseaux et systèmes d’infrastructure résilients, communications par satellite, combat collaboratif et cybersécurité. Situé au nord de Paris, il est rapidement accessible en transports en commun.
+
+Tu travailleras en tant qu’Ingénieur.e Développement et test au sein de la Direction d’ingénierie de notre Secteur RIS, dans une logique de Smart Working, où l’innovation technologique, la créativité et le bien-être en équipe nous permet de répondre au mieux aux exigences de nos clients. Dans ce cadre, tu participeras aux grands projets de Réseaux d’Infrastructures et Stratégiques au service de nos clients.
+
+Tes contributions, à la fois dans les offres et au sein de nos projets, couvriront les concepts d’architecture, de configuration, d’intégration de déploiement et de maintien en conditions opérationnelles (MCO) de nos réseaux.
+
+Tes principales missions seront :
+
+Prendre en main les travaux déjà initiés par l’équipe IVVQ Réseau et en assurer la continuité.
+Installer et configurer les serveurs de virtualisation nécessaires aux différents environnements de tests.
+Définir une topologie réseau adaptable et multi-instanciable pour répondre aux besoins du projet.
+Déployer et paramétrer les routeurs virtuels au sein de cette architecture.
+Automatiser le lancement des machines virtuelles (VM) ainsi que leurs interconnexions, conformément à la topologie définie.
+Participer au lancement automatique des campagnes de tests.
+Rédiger et maintenir la documentation technique associée à l’ensemble de ces activités.
+
+
+Ton profil
+
+Issu.e d’un cycle d’ingénieur généraliste/Telecom, tu es interessé.e par nos activités innovantes implantées partout dans le monde ?
+
+Tu es interessé.e par les sujets liés aux Télécom et à la métrologie ? Tu disposes d’un véritable attrait pour les environnements virtualisés et souhaites développer tes compétences dans un contexte technique exigeant, au cœur des systèmes critiques et innovants ?
+
+Tu as de bonnes capacités rédactionnelles & de synthèse ?
+
+Tu as de bonnes capacités d’organisation?
+
+Tu es force de proposition ?
+
+Le mot de l'équipe
+
+A la fin de ton apprentissage tu seras capable de :
+
+Réaliser toute l’ingénierie de développement et test de solutions de performance réseau selon les méthodes et les standards technologiques de pointe de Thales
+Avoir une véritable vision d’ensemble de ce que représente un grand projet
+
+
+Ces missions t’intéressent ? Alors n'hésite pas à postuler ! 
+
+Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd’hui.
+
+Tous nos stages sont conventionnés et soumis à une gratification dont le montant est déterminé selon votre niveau d’études.
+
+Thales, entreprise Handi-Engagée, reconnait tous les talents. La diversité est notre meilleur atout. Postulez et rejoignez nous !
+
+

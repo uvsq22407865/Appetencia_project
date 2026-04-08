@@ -1,0 +1,22 @@
+finaliteId,nom,themeId
+FIN_CONNECTER_CREER_ET_ENTRETENIR_DU_LIEN_AV,Connecter : créer et entretenir du lien avec les autres,LE_RELATIONNEL_ET_L_HUMAIN
+FIN_ENERGISER_PROVOQUER_DES_EMOTIONS_POSITIV,"Énergiser : provoquer des émotions positives, engager et impliquer",LE_RELATIONNEL_ET_L_HUMAIN
+FIN_PRENDRE_SOIN_AGIR_DE_MANIERE_CONCRETE_ET,Prendre soin : agir de manière concrète et directe pour le bien-être d’autrui,LE_RELATIONNEL_ET_L_HUMAIN
+FIN_EXPRIMER_MA_SINGULARITE_ET_MA_PERSONNALI,Exprimer ma singularité et ma personnalité dans mon travail,LE_RELATIONNEL_ET_L_HUMAIN
+FIN_ORGANISER_GERER_MANAGER_LE_TRAVAIL_DES_A,"Organiser : gérer, manager le travail des autres",LE_RELATIONNEL_ET_L_HUMAIN
+FIN_GERER_LES_CONFLITS,Gérer les conflits,LE_RELATIONNEL_ET_L_HUMAIN
+FIN_ETRE_INTERMEDIAIRE_ENTRE_PLUSIEURS_PERSO,Être intermédiaire entre plusieurs personnes,LE_RELATIONNEL_ET_L_HUMAIN
+FIN_EXECUTER_METTRE_EN_PLACE_DES_ACTIONS_POU,Exécuter : mettre en place des actions pour faire avancer les choses et obtenir des résultats,LA_PRATIQUE_LES_PRODUITS_LES_CORPS
+FIN_CREER_PRODUIRE_REALISER_DES_IDEES_OU_DES,"Créer : produire, réaliser, des idées ou des produits",LA_PRATIQUE_LES_PRODUITS_LES_CORPS
+FIN_MANIPULER_APPRECIER_LA_TECHNIQUE_TRAVAIL,"Manipuler : apprécier la technique, travailler à l’aide d’outils/machines/nature",LA_PRATIQUE_LES_PRODUITS_LES_CORPS
+FIN_BOUGER_ETRE_EN_MOUVEMENT_MOBILISER_SON_C,"Bouger : être en mouvement, mobiliser son corps",LA_PRATIQUE_LES_PRODUITS_LES_CORPS
+FIN_ORDONNER_RANGER_GERER_TRIER_DES_OBJETS_D,"Ordonner : ranger, gérer, trier des objets / des personnes / des événements",LA_PRATIQUE_LES_PRODUITS_LES_CORPS
+FIN_EMBELLIR_LES_CHOSES_DANS_UN_OBJECTIF_EST,Embellir les choses dans un objectif esthétique,LA_PRATIQUE_LES_PRODUITS_LES_CORPS
+FIN_OBSERVER_LES_SITUATIONS_ET_LES_COMPORTEM,Observer les situations et les comportements de personnes,LES_IDEES
+FIN_ANALYSER_MANIPULER_DES_DONNEES_DES_CHIFF,"Analyser : manipuler des données, des chiffres, des concepts",LES_IDEES
+FIN_RECHERCHER_APPRENDRE_EN_PROFONDEUR_REALI,"Rechercher : apprendre en profondeur, réaliser un travail d’analyse, être expert sur un sujet",LES_IDEES
+FIN_SOLUTIONNER_RESOUDRE_DES_PROBLEMES_TROUV,"Solutionner : résoudre des problèmes, trouver un sens à des thématiques complexes",LES_IDEES
+FIN_AMELIORER_REMETTRE_EN_QUESTION_UN_PROCES,"Améliorer : remettre en question un process, une idée, un produit, une technique pour l’optimiser et la développer",LES_IDEES
+FIN_TRANSMETTRE_PARTAGER_DES_CONNAISSANCES_D,"Transmettre : partager des connaissances, des informations, des expériences",LES_IDEES
+FIN_DEBATTRE_PARTAGER_UN_AVIS_CONVAINCRE_INF,"Débattre : partager un avis, convaincre, influencer, argumenter, persuader",LES_IDEES
+FIN_MANIPULER_APPRECIE_LA_TECHNIQUE_TRAVAILL,"Manipuler : apprécié la technique, travailler à l’aide d’outils/machines/nature",LA_PRATIQUE_LES_PRODUITS_LES_CORPS

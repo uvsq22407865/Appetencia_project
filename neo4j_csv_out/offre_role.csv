@@ -1,0 +1,35 @@
+offreId,titre,role,confidence,method,evidence
+OFF_001,STAGE - Ingénieur : Tests de performance sur plateforme de télécommunications F/H  chez Thales,Le critique,0.56,synonym_body_fallback,critique
+OFF_001,STAGE - Ingénieur : Tests de performance sur plateforme de télécommunications F/H  chez Thales,Le bon élève,0.56,synonym_body_fallback,apprenti
+OFF_002,Responsable de projet,Chef de projet,0.95,synonym_title,responsable de projet
+OFF_003,enseignant(e) vacataire / freelance,Pédagogue,0.95,synonym_title,enseignant
+OFF_003,enseignant(e) vacataire / freelance,Dirigeant,0.8,synonym_body,coo
+OFF_004,MEDECIN GENERALISTE,Soignant,0.95,synonym_title,medecin
+OFF_005,Assistant RH,Le bon élève,0.95,synonym_title,assistant
+OFF_005,Assistant RH,Manager,0.8,synonym_body,manager
+OFF_006,Chargé(e) Ressources Humaines,Budgeteur,0.95,synonym_title,comptable
+OFF_006,Chargé(e) Ressources Humaines,Expert,0.95,synonym_title,expert
+OFF_007,Responsable clientèle BNC – Professions libérales (H/F),Expert,0.92,intro_pattern,responsable clientele bnc pour rejoindre un cabinet d expert
+OFF_007,Responsable clientèle BNC – Professions libérales (H/F),Budgeteur,0.8,synonym_body,comptable
+OFF_007,Responsable clientèle BNC – Professions libérales (H/F),Juriste,0.8,synonym_body,avocat
+OFF_008,Comptable,Budgeteur,0.95,synonym_title,comptable
+OFF_008,Comptable,Le bon élève,0.95,synonym_title,stagiaire
+OFF_008,Comptable,Orateur,0.95,synonym_title,orateur
+OFF_009,Professeur de mathématiques et/ou physique et/ou SVT,Pédagogue,0.95,synonym_title,professeur
+OFF_010,Ingénieur Formateur F/H,Pédagogue,0.95,synonym_title,formateur
+OFF_011,Juriste Banque Digitale Nouvelles Technologies (H/F),Juriste,0.95,synonym_title,juriste
+OFF_012,Chef de projet transformation digitale H/F,Chef de projet,0.95,synonym_title,chef de projet
+OFF_012,Chef de projet transformation digitale H/F,Communicant,0.95,synonym_title,communicant
+OFF_012,Chef de projet transformation digitale H/F,Le bon élève,0.8,synonym_body,apprenti
+OFF_013,Formateur Technique (Dagneux) (H/F),Pédagogue,0.95,synonym_title,formateur
+OFF_013,Formateur Technique (Dagneux) (H/F),Leader,0.95,synonym_title,leader
+OFF_013,Formateur Technique (Dagneux) (H/F),Expert,0.8,synonym_body,specialiste
+OFF_014,Formateur H/F,Pédagogue,0.95,synonym_title,formateur
+OFF_015,Chef de projets développements électroniques F/H,Chef de projet,0.95,synonym_title,chef de projets
+OFF_016,Consultant confirmé en diagnostic organisationnel - secteur numérique (H/F),Conseiller,0.95,synonym_title,consultant
+OFF_017,"Community Manager & Content Creator / Italian Market (CDI, Parigi)",Animateur,0.95,synonym_title,community manager
+OFF_017,"Community Manager & Content Creator / Italian Market (CDI, Parigi)",Créateur,0.95,synonym_title,content creator
+OFF_017,"Community Manager & Content Creator / Italian Market (CDI, Parigi)",Manager,0.95,synonym_title,manager
+OFF_018,Technicien Méthodes H/F,Support technique,0.56,synonym_body_fallback,support technique
+OFF_018,Technicien Méthodes H/F,Chef de projet,0.56,synonym_body_fallback,chef de projet
+OFF_019,Coach Sportif H/F,Mentor,0.95,synonym_title,coach
